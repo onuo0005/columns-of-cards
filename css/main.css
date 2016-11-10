@@ -85,3 +85,12 @@ p {
 .btn:hover {
   background-color: black;
 }
+
+body {
+  background-color: #f2f2f2;
+  margin: 0;
+}
+
+.btn-small {
+  color: white;
+}
